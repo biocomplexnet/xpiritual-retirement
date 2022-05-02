@@ -1,7 +1,0 @@
-[submodule "website/themes/hugo-theme-cleanwhite"]
-	path = website/themes/hugo-theme-cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
-[submodule "website/public"]
-	path = website/public
-	url = https://github.com/biocomplexnet/biocomplexnet.github.io.git
-	branch = main

@@ -1,6 +1,6 @@
 baseURL = 'https://biocomplexnet.github.io/'
 languageCode = 'en-us'
-title = 'Xpiritual retirment'
+title = 'Xpiritual Bioinformatics Retreat'
 theme = 'hugo-theme-cleanwhite'
 
 [params]

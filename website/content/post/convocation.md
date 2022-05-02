@@ -12,16 +12,22 @@ The Xpiritual Bioinformatics Retreat is a one week experience of project present
 
 This year's summer edition will take place from June 12, 2022 to June 18, 2022 at Pátzcuaro, Michoacán; Mexico's magic town near Patzcuaro´s lake.
 
+# Organizers
+
+This event is organized by people from the [Bioinformatics and Complex Networks Lab](https://ira.cinvestav.mx/ingenieriagenetica/dra-maribel-hernandez-rosales/bioinformatica-y-redes-complejas/) located at CINVESTAV Irapuato, Guanajuato. In case of questions, feel free to contact us via: [bioinfoandcomplexnetworks@gmail.com](mailto:bioinfoandcomplexnetworks@gmail.com).
+
+José Antonio Ramírez-Rafael | [@jxrrTecn](https://twitter.com/jxrrTecn)
+
+Marisol Navarro-Miranda      | [@solnavss](https://twitter.com/solnavss)
+
+Octavio Zambada-Moreno    | [@octavirus23](https://twitter.com/octavirus23)
+
 # Location
 
 The meeting will take place at Hotel [Posada Yolihuani](https://posada-yolihuani.com/inicio/) ([Calle Doctor Cos 40, Centro, 61600 Pátzcuaro, Mich](https://g.page/PosadaYolihuani-Patzcuaro?share)).
 
-<figure>
-  <img src="../img/posada.png"/>
-  <figcaption>
-      <h4>Steve Francia</h4>
-  </figcaption>
-</figure>
+<img src="../img/posada.png" alt="fishy">
+
 
 The hotel has 10 rooms for a maximum of 30 people. Each room has a bedroom and its own bathroom including a shower. If by the moment of your registration Hotel Posada Yolihuani is fully booked, we have the possibility to get rooms in another hotel (Mesón San Antonio).
 
@@ -85,13 +91,3 @@ You have until May 16th.
 - **Cash:** Pátzcuaro is a small town, so it's probable that most places don't accept credit/debit cards. Please consider having enough cash (mexican pesos) to ensure additional meals, drinks, etc. 
 
 - **Internet:** WIFI is available in Hotel Posada Yolihuani, but might not cover all rooms equally.
-
-# Contact
-
-The Xpiritual Bioinformatics Retreat is organized by people from the Bioinformatics and Complex Networks Lab located at CINVESTAV Irapuato, Guanajuato. In case of questions, feel free to contact us via: [bioinfoandcomplexnetworks@gmail.com](mailto:bioinfoandcomplexnetworks@gmail.com).
-
-José Antonio Ramírez-Rafael | [@jxrrTecn](https://twitter.com/jxrrTecn)
-
-Marisol Navarro-Miranda      | [@solnavss](https://twitter.com/solnavss)
-
-Octavio Zambada-Moreno    | [@octavirus23](https://twitter.com/octavirus23)

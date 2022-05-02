@@ -25,7 +25,23 @@ The meeting will take place at Hotel [Posada Yolihuani](https://posada-yolihuani
 
 The hotel has 10 rooms for a maximum of 30 people. Each room has a bedroom and its own bathroom including a shower. If by the moment of your registration Hotel Posada Yolihuani is fully booked, we have the possibility to get rooms in another hotel (Mesón San Antonio).
 
-# Fee & Registration
+# Scientific Program
+
+It is desirable for every participant to present his/her scientific work. This is not a burden but a good chance to present your scientific results in order to connect with people that may be interested in your topic. If you're a member of the Bioinformatics & Complex Networks Lab, your presentation is mandatory. We will have two kinds of talks: 
+
+- **Regular talk:** 15 minutes talk + 5 minutes questions
+
+- **Extended talk (1 per day):** 30 minutes talk + 10 minutes questions 
+
+A meaningful (preliminary) title should be given at the registration process in order to schedule talk sessions. As usual, we provide a video projector (with VGA & HDMI port) and a laser pointer for the presentations. 
+
+Further information on the time table will be given at time. 
+
+# Workshop
+
+Further information on the workshop will be given at time. 
+
+# Fee
 
 Fee modality per person.
 
@@ -46,13 +62,11 @@ In order for us to consider your registration, **you need to pay half of the fee
 
 The conference fee can only be refunded if the registration is canceled until the end of the registration deadline on May 30th (per e-mail). Otherwise your fee will not be refunded.
 
-# Registration/check-in
+**Note:** Traveling expenses are on you. Also you can contact us if you have difficulties arriving at the Hotel.
+
+# Check-in
 
 The registration/check-in will be in the dining room of Hotel Posada Yolihuani Jun 18, 2022 from 3pm to 6pm. If you are arriving prior to registration, please do not check in with the hotel, but wait for the organizing team. We will hand you over the key and registration information. Please note that late-night registration will not be supported after 8 pm even for those running late. 
-
-# Traveling
-
-Traveling expenses are on you. Also you can contact us if you have difficulties arriving at the Hotel.
 
 # Family
 
@@ -72,34 +86,12 @@ You have until May 16th.
 
 - **Internet:** WIFI is available in Hotel Posada Yolihuani, but might not cover all rooms equally.
 
-
-
-# Scientific Program
-
-It is desirable for every participant to present his/her scientific work. This is not a burden but a good chance to present your scientific results in order to connect with people that may be interested in your topic. If you're a member of the Bioinformatics & Complex Networks Lab, your presentation is mandatory. We will have two kinds of talks: 
-
-- **Regular talk:** 15 minutes talk + 5 minutes questions
-
-- **Extended talk (1 per day):** 30 minutes talk + 10 minutes questions 
-
-A meaningful (preliminary) title should be given at the registration process in order to schedule talk sessions. As usual, we provide a video projector (with VGA & HDMI port) and a laser pointer for the presentations. 
-
-Further information on the time table will be given at time. 
-
-# Workshop
-
-Further information on the workshop will be given at time. 
-
-# Registered participants
-
-\#  Last name  First name  Affiliation  Talk title  Talk time  Payment status
-
 # Contact
 
 The Xpiritual Bioinformatics Retreat is organized by people from the Bioinformatics and Complex Networks Lab located at CINVESTAV Irapuato, Guanajuato. In case of questions, feel free to contact us via: [bioinfoandcomplexnetworks@gmail.com](mailto:bioinfoandcomplexnetworks@gmail.com).
 
-José Antonio Ramírez-Rafael | @jxrrTecn
+José Antonio Ramírez-Rafael | [@jxrrTecn](https://twitter.com/jxrrTecn)
 
-Marisol Navarro-Miranda  | @solnavss
+Marisol Navarro-Miranda      | [@solnavss](https://twitter.com/solnavss)
 
-Octavio Zambada-Moreno | @octavirus23
+Octavio Zambada-Moreno    | [@octavirus23](https://twitter.com/octavirus23)

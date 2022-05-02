@@ -5,25 +5,27 @@ description: ""
 date:        2020-05-02
 author:      "biocomplexnet"
 image:       ""
+SEOTitle:    "biocomplexnet"
 ---
 
 The Xpiritual Bioinformatics Retreat is a one week experience of project presentations, networking, bioinformatics workshops, drinks and good talks for a multidisciplinary scientific community, sharing knowledge around biological topics.
 
 This year's summer edition will take place from June 12, 2022 to June 18, 2022 at Pátzcuaro, Michoacán; Mexico's magic town near Patzcuaro´s lake.
 
-# Contact
-
-The Xpiritual Bioinformatics Retreat is organized by people from the Bioinformatics and Complex Networks Lab located at CINVESTAV Irapuato, Guanajuato. In case of questions, feel free to contact us via: [bioinfoandcomplexnetworks@gmail.com](mailto:bioinfoandcomplexnetworks@gmail.com)
-
 # Location
 
-The meeting will take place at Hotel [Posada Yolihuani]((https://posada-yolihuani.com/inicio/)) ([Calle Doctor Cos 40, Centro, 61600 Pátzcuaro, Mich](https://g.page/PosadaYolihuani-Patzcuaro?share)).
+The meeting will take place at Hotel [Posada Yolihuani](https://posada-yolihuani.com/inicio/) ([Calle Doctor Cos 40, Centro, 61600 Pátzcuaro, Mich](https://g.page/PosadaYolihuani-Patzcuaro?share)).
 
-FOTOS DEL HOTEL
+<figure>
+  <img src="../img/posada.png"/>
+  <figcaption>
+      <h4>Steve Francia</h4>
+  </figcaption>
+</figure>
 
 The hotel has 10 rooms for a maximum of 30 people. Each room has a bedroom and its own bathroom including a shower. If by the moment of your registration Hotel Posada Yolihuani is fully booked, we have the possibility to get rooms in another hotel (Mesón San Antonio).
 
-**Fee & Registration** 
+# Fee & Registration
 
 Fee modality per person.
 
@@ -44,7 +46,7 @@ In order for us to consider your registration, **you need to pay half of the fee
 
 The conference fee can only be refunded if the registration is canceled until the end of the registration deadline on May 30th (per e-mail). Otherwise your fee will not be refunded.
 
-# registration/check-in
+# Registration/check-in
 
 The registration/check-in will be in the dining room of Hotel Posada Yolihuani Jun 18, 2022 from 3pm to 6pm. If you are arriving prior to registration, please do not check in with the hotel, but wait for the organizing team. We will hand you over the key and registration information. Please note that late-night registration will not be supported after 8 pm even for those running late. 
 
@@ -64,8 +66,6 @@ Please fill the [this form](https://docs.google.com/forms/d/e/1FAIpQLSf8glFV3Occ
 
 You have until May 16th.
 
-~~**Note:** After the registration make sure your name and payment status appear at the bottom of this website.~~
-
 # Further information
 
 - **Cash:** Pátzcuaro is a small town, so it's probable that most places don't accept credit/debit cards. Please consider having enough cash (mexican pesos) to ensure additional meals, drinks, etc. 
@@ -82,7 +82,7 @@ It is desirable for every participant to present his/her scientific work. This i
 
 - **Extended talk (1 per day):** 30 minutes talk + 10 minutes questions 
 
-A meaningful (preliminary) title should be given at the registration process in order to schedule talk sessions. ~~The final presentation should be sent by June 10th, 11:59 pm (GMT-5) to the email [bioinfoandcomplexnetworks@gmail.com](mailto:bioinfoandcomplexnetworks@gmail.com)~~. As usual, we provide a video projector (with VGA & HDMI port) and a laser pointer for the presentations. 
+A meaningful (preliminary) title should be given at the registration process in order to schedule talk sessions. As usual, we provide a video projector (with VGA & HDMI port) and a laser pointer for the presentations. 
 
 Further information on the time table will be given at time. 
 
@@ -94,9 +94,11 @@ Further information on the workshop will be given at time.
 
 \#  Last name  First name  Affiliation  Talk title  Talk time  Payment status
 
-# organizers
+# Contact
 
-Antonio Ramírez-Rafael | @jxrrTecn
+The Xpiritual Bioinformatics Retreat is organized by people from the Bioinformatics and Complex Networks Lab located at CINVESTAV Irapuato, Guanajuato. In case of questions, feel free to contact us via: [bioinfoandcomplexnetworks@gmail.com](mailto:bioinfoandcomplexnetworks@gmail.com).
+
+José Antonio Ramírez-Rafael | @jxrrTecn
 
 Marisol Navarro-Miranda  | @solnavss
 

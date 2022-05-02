@@ -2,3 +2,7 @@ baseURL = 'https://biocomplexnet.github.io/'
 languageCode = 'en-us'
 title = 'Xpiritual retirment'
 theme = 'hugo-theme-cleanwhite'
+
+[params]
+  header_image = "img/patzcuaro.png"
+  SEOTitle = 'biocomplexnet'

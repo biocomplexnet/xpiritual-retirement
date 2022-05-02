@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xpiritual retreat summer 2022</title>
+    <link>https://biocomplexnet.github.io/</link>
+    <description>Recent content on Xpiritual retreat summer 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://biocomplexnet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>https://biocomplexnet.github.io/contacto/</link>
+      <pubDate>Mon, 02 May 2022 00:22:37 -0500</pubDate>
+      
+      <guid>https://biocomplexnet.github.io/contacto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convocation</title>
+      <link>https://biocomplexnet.github.io/post/convocation/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://biocomplexnet.github.io/post/convocation/</guid>
+      <description>The Xpiritual Bioinformatics Retreat is a one week experience of project presentations, networking, bioinformatics workshops, drinks and good talks for a multidisciplinary scientific community, sharing knowledge around biological topics.
+This year&amp;rsquo;s summer edition will take place from June 12, 2022 to June 18, 2022 at Pátzcuaro, Michoacán; Mexico&amp;rsquo;s magic town near Patzcuaro´s lake.
+Contact The Xpiritual Bioinformatics Retreat is organized by people from the Bioinformatics and Complex Networks Lab located at CINVESTAV Irapuato, Guanajuato.</description>
+    </item>
+    
+  </channel>
+</rss>
